@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Afghanistan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[61.210817, 35.650072], [62.230651, 35.270664], [62.984662, 35.404041]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Albania" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[20.590247, 41.855404], [20.463175, 41.515089], [20.605182, 41.086226]]]
+      }
+    }
+  ]
+}
